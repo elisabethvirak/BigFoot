@@ -1,0 +1,21 @@
+body {
+    font-family: arial;
+    background-image: url('https://images.unsplash.com/photo-1487988349427-5d284896ae26?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1050&q=80');
+    /*photo from Kyle Cesmat @kylecesmat on Unsplash*/
+    background-size: cover;
+    height: 500px;
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+header h1 {
+    font-size: 80px;
+    line-height: 95px;
+    text-transform: uppercase;
+    text-align: left;
+    color: white;
+    padding: 10%;
+    margin: 50px;
+    position: relative;
+}
